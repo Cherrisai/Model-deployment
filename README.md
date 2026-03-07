@@ -19,19 +19,4 @@ Requirements
 How to Run
 streamlit run main.
 
-requirements.txt
-
-streamlit
-pandas
-scikit-learn
-numpy
-
-project
-
-│
-├── main.py
-├── clf.pkl
-├── claimants.csv
-├── requirements.txt
-├── README.md
 
