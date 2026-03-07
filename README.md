@@ -15,3 +15,8 @@ Attorney Prediction ML App
 Requirements (Libraries list)
 
 How to Run streamlit run main.
+ You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.20.10.3:8501
+
