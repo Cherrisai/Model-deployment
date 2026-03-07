@@ -3,9 +3,13 @@ Requirements
 The following libraries are required to run this project:
 
 streamlit
+
 pandas
+
 scikit-learn
+
 numpy
+
 Install them using:
 
 pip install -r requirements.txt
