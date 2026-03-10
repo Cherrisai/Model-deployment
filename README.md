@@ -1,3 +1,10 @@
+This project is a Machine Learning web application that predicts whether a claimant involved in an insurance case will hire an attorney. The model is built using Logistic Regression and deployed with Streamlit. Users enter details like age, gender, seatbelt usage, insurance status, and claim amount to receive a real-time prediction.
+
+
+
+
+
+
 Requirements
 
 The following libraries are required to run this project:
